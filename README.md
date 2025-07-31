@@ -102,4 +102,6 @@ This scanner uses **static heuristics only**. It does not perform dynamic analys
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for full terms.
 
+Written and organized by JP Software Solutions
+
 
